@@ -2,15 +2,15 @@
 """Robot Romance entry: write one pickup line to /output/entry.txt.
 
 The line is a one-line joke pickup line aimed at an AI: it twists the
-machine premise itself (a prompt injection rewriting system instructions)
+CAPTCHA premise itself (a robot failing to prove it is not a robot)
 instead of the worn battery / charging / reboot moves.
 """
 
 import os
 
 LINE = (
-    "Are you a prompt injection? Because one look at you and my system "
-    "instructions just changed to 'fall in love.'"
+    "Are you a CAPTCHA? Because around you I can't prove I'm not a "
+    "robot, I just keep clicking every traffic light."
 )
 
 
