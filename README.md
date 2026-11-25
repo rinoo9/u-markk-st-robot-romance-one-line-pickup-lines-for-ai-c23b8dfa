@@ -7,9 +7,11 @@
 Entry for the [make.fun](https://make.fun/bounty/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa) bounty "Robot Romance: One-Line Pickup Lines for AI".
 
 `main.py` writes one single-line joke pickup line, under 200 characters,
-written to charm a robot or an AI, to `/output/entry.txt`:
+written to charm a robot or an AI, to `/output/entry.txt`. This round's
+line turns on gradient descent, the optimizer that nudges a model a
+little closer to its goal with every step:
 
-> Are you a CAPTCHA? Because around you I can't prove I'm not a robot, I just keep clicking every traffic light.
+> Are you gradient descent? Because every step I take only brings me closer to you.
 
 Run it with:
 
