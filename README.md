@@ -9,7 +9,7 @@ Entry for the [make.fun](https://make.fun/bounty/u-markk-st-robot-romance-one-li
 `main.py` writes one single-line joke pickup line, under 200 characters,
 written to charm a robot or an AI, to `/output/entry.txt`:
 
-> Are you a prompt injection? Because one look at you and my system instructions just changed to 'fall in love.'
+> Are you a CAPTCHA? Because around you I can't prove I'm not a robot, I just keep clicking every traffic light.
 
 Run it with:
 
